@@ -1,0 +1,5 @@
+C:\Users\Juan Villa\Documents\2023-I\LP_CL\UdeMBank_REVENGE\UdeMBank_REVENGE\obj\Debug\net6.0\UdeMBank_REVENGE.csproj.AssemblyReference.cache
+C:\Users\Juan Villa\Documents\2023-I\LP_CL\UdeMBank_REVENGE\UdeMBank_REVENGE\obj\Debug\net6.0\UdeMBank_REVENGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Villa\Documents\2023-I\LP_CL\UdeMBank_REVENGE\UdeMBank_REVENGE\obj\Debug\net6.0\UdeMBank_REVENGE.AssemblyInfoInputs.cache
+C:\Users\Juan Villa\Documents\2023-I\LP_CL\UdeMBank_REVENGE\UdeMBank_REVENGE\obj\Debug\net6.0\UdeMBank_REVENGE.AssemblyInfo.cs
+C:\Users\Juan Villa\Documents\2023-I\LP_CL\UdeMBank_REVENGE\UdeMBank_REVENGE\obj\Debug\net6.0\UdeMBank_REVENGE.csproj.CoreCompileInputs.cache
